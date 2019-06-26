@@ -30,7 +30,7 @@ body {
 
 /* Opening View Height */
 .firstContainer {
-  height: 100%;
+  height: 100vh;
   width: 100%;
   background-image: url("tristanSmiles.jpeg");
   background-repeat: no-repeat;
